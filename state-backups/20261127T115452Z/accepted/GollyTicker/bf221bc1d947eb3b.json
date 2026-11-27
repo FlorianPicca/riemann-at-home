@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "bf221bc1d947eb3b",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "AMD EPYC 7402 24-Core Processor",
+    "cores": 48
+  },
+  "started": "2026-11-27T11:35:23Z",
+  "recorded": "2026-11-27T11:53:10Z",
+  "busy_seconds": 907,
+  "modules_compiled": 2473,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cTWjUQBTHX7JpNlW7G1TKFgWjVlsEsSiCX9BRexAUXD2JF/ciIqgXEQ9FO1Yp4kELXjxJe/CgN/HgwUPjWUXsQUGFVhAEPWippcXVHWcm6Zrsh92tLSr9/2CHzWSSNzN5H5m32RCBmjHn9GyuLo1YHVMFD0V1Zcmb+0FsLq9qrOEwPucdsSp8AwAAAAAAAAAAAAAAAAAAAAAAEMf9Vzt2JSH7ZpkLcOTgP8GCJQMAAAAAAADAQsb5s5WjhxkEYIHByS35h0+tTKVmyJLm5Mc3MMVgnmE6+HWZxKPxzY3FNS4rpLouLdV+FRLbVCs2rcwZIsOrHDGZ+yK1olS67YatT5ntZq2BGPxdWhswBwAAAAAAACwYkjQliqzio7LMd+o930Xn9HLvmTh23jjecXO4+/Dw7vti6IYQnULt5uqoHbVL8xq3f9h5/Yh57PlZe1J05kd+FELRTdRfEDEmVZGOLEEjrz8xglWqMx9ZlUWq2Jesut//9YYVL1Ulk1whIWQUV9rFY7yB8D0yemOD1871/Et6xPgnVZkIm47p2hFVPCrs/dI9Fp7NP2G7xdPOlB34usIPvi27vIv6pWD7I7GMT1ZKVR6g5syvbAC10GibFPJ2MaXX+4O0uvti7DqWTvydeEXzdDs5EaZbzCAM8wTRtpZAyF0r3WiQ0yurOmTvvAopA4eXTe8scgp+rxrRPWL7NwWSY33tD7aWN6kpYgN64zFdOa1buvscsh7npJXYi+ArogrA3le2Pf67n1ZSHdce+RET/yyG1lh95yZepb+LDYl1TuB2EuFVVqZhR8yJaYnT2qQ1PnQOZY/e2cq0ovlczmp7PO9PHim062o9qsZZN1PpGdxMJXK1SUrOoX5cmLfknxUM26Euvfly5Y2vbj7Up4fj+TBuRAhmzG1wTakPTxMU8blEmb4MHdJ+JZfI2uS0bL1U3Jc1Ql9h6sFwrWeBo2W7Al+0RCqZY1paAY2LXkx73Jqvz7uqVlaq2Z4M1j9ihpcqt0C5vyGuzCx2SDCEVsdkXHeTN5XJ1cOWhaPPYkaii2EaMygeIx2cB5R+3woE85Pfnog3I2JCVGZIegINJR9coOI1U85AJNODB7167JKv5QWx5arrjRVvYAAAoBq9Oc+h18bq9r6JNunAuohnKTPbk1ULfKP1xPvb0Y0lv2u5rf57Fr5nY5YYP8MOXOoxj3rcHTAy2qn7ynFz8W7oW1467uWV1zCsNEbpERsqSlZfhRSCXrL4jVa2bHn0H8DpJ88YHwqLVQAA",
+  "olean_digest": "0700a2ea1c38ad35da5b240a250f1a7cfc429479ed41c8435e4d30b35b07a891",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Ayake"
+}

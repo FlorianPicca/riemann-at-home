@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "f4c95dea292d3709",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "AMD EPYC (Naples) 32-Core Processor",
+    "cores": 48
+  },
+  "started": "2026-11-26T04:29:44Z",
+  "recorded": "2026-11-27T12:07:23Z",
+  "busy_seconds": 110699,
+  "modules_compiled": 175146,
+  "bitmap_b64": "H4sIAAAAAAAC/+3ZQQrCMBAFUE/gFT3KnMmT9AAuuvQCgouQTClFUNSVaSn43moIgYSf1SeZAAAAAAAAAAAAAAAAABtrO7lHfZtHj9PJ8GX9nvEYo/Q9skgdAH4VVQYAXRpvnDMvcwNanJ43XF966fEmMgAAAP5dWeujr8mWTw4THpgAsotVAAA=",
+  "olean_digest": "1b68e2cb6d0a3376fbdcacdc2e69f5862950c006e39aecb71bcc35d56fc71bf7",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

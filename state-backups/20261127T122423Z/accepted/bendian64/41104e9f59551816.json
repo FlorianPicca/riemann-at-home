@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "41104e9f59551816",
+  "machine": {
+    "os": "Linux 7.2.13-200.fc44.ppc64le",
+    "arch": "ppc64le",
+    "cpu": "",
+    "cores": 144
+  },
+  "started": "2026-11-26T20:30:53Z",
+  "recorded": "2026-11-27T12:22:26Z",
+  "busy_seconds": 57093,
+  "modules_compiled": 173937,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cwWvTUBjAnw4tiNjhRbxY8K5Ohuyg8AZ690/YSS87TPAgOFg2kLnbEDx4Mh68edlFJmhNsQd3ECLo8DBY2GEWmVIlsjRN3vtM2q5N2pcubdMlqd/v0LVZ8vrle9/73nvf96UACNKAA5S2nL+K5wCCIMhIU4rX6R4x9hFIpbR9pl3OlU0pgcqiTTVJzreaSTbfYQin0f/YHyjNnjfqb4o2hPMjrq0k21h6Q2rYf99eZpiu9bElOloe0RHpJcdTMbfFCZWjbtEwnGks0C1mnU6v23zRGTIV7wRYMsLKHMYxDziag7F6asuCBGxX29HhE6j6wd0+cw/0b0Ax2W1zqjFg5BbBUnSeUw111tQAsg6+2CxGpfVAU5i8sBxJx8Q/miGCuTw3rP1B0xYiGiQqxL7A1QcbpyH3fYNJ2d9STmV9e/khDgO5o99ZQheviduAMGGnyemKuvgNIaU9cUTrCHu4d6KmdTpEEARBEARBEARBkHiRRRtsCQ6NEq5BmEyXnS135L1EERwuitv/6C3Ww+oC0nBRzXXoIRpq9BCL531EQWiWoSUiCIIgCNIPrHsyxBImLLmRqHuQKslRprkKpuZkxb5umA/uapnN/C4tNBessmK5GmW52mr5latcoxxJ8YmIhYmE2ty2vvdu79y2x66qwMo19Xl3EVXfPmOMOHrULGDcnzefcq6pXzU3X7dW605Nn2TxT+1jKT/7pbY/cb7lIF+ZIS0WGw0Vn8KxDYB5dyEvuS98rynfa4WLs6TXHrKgfLPzD04NC7TNeaa93c3YoCxISlp2dbFxvc3ntErkQHqJ/hrplWKr+OlzqFKs1vl08h7vUi9gBFUPmIIyCQqBjxHQZXhOfQ3N8oDoh+w6kLHCoeWrtBFQaPkb3epsT163uzqBkl8I3ZlpdeH95apidxKqPCTjm75vfvfWbNhBD2u0x1gOc6y5k7xDY7XLKZk4TX4PVCykCapnAmq7mO9cW+9arcI640iy6Z0iFah6NZW9XGlJIAooLa4f6M5R18dQNTyqGhB62xHWsK02BLMEipwoQGABEPPajTGcusosuUFs9IcIgkCan/NdLXGgb0B6AfJ5UB7BFfXizywhS+On/nJN02+D9eTE9P5KlhSOE3L2w86lM2tG+RvM3Lq/k1mqwDjM8VQGJ5JBroAGjiAIgiAIMvrs+yN9Gj68hyBpQnMii0r+1wxAxc25cuk9wFXYkqbJij0qP/eFpALyD3xS86qLVQAA",
+  "olean_digest": "f765e408a2acd4195838d1833f360850face9d1f33ad2e0b25a263a7ebdd8144",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "f4c95dea292d3709",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "AMD EPYC (Naples) 32-Core Processor",
+    "cores": 48
+  },
+  "started": "2026-11-26T04:29:44Z",
+  "recorded": "2026-11-27T11:46:45Z",
+  "busy_seconds": 109461,
+  "modules_compiled": 174085,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cvW/UMBTAj4J0EkgciImpC39AJUaQzAJr/wEEG/8CQ0UNDF2QgB2pGRgYGAAxMri0iPWmDggJt0ObiiWqUpSmztkkcdrLlx3nq1zR+0m9y+USx37v+X04uQoBnBFo9IKVX/NJalseLGHGV+BYOOEbIfKjE7YDAAAAKHAUHnl+yzY6H/OshyYd98/LdDZ+DUxCQdIb62QUviYqlRBkR4K08QSLHcMIJZSX02tJ110nadqOhngSRVHQjQLctKalXDzTU7IyamSeCpOrZHyzbC/SnTIp3Zuxm58K7TFTCzaCmUoijd1Sz6FU8YqY56H2fMOGraL9MqetvVlV5mRVNlFq+eOg2kHZhbOJ1hzMBkHHepVx9dUOtVPKhLpmEeRHSdtl0fU67hckb3V9iTYTpNrrKM10ejYteqPlrny0PpR+FYgjR2EdKBT+t0j/jgyc0m/FLdsKF+aG+9/i6XwJkMHsN7Mmqij7UF23qTyEJX/UUPvdGxSvMRvqg0xjHS5Gl4ezn7cWTPL6riqEm4ekoK0VYK3h+dTIn9VZTzkeMfaapUl6E1qrPOTDcHcmzIH12zzPT1ea9xyWNn01NMHzB3VzYUUQ8nJWEL+ifDpAuVHhxlMTy7APas+Fms7NDIQKd0NwpmjIxhlPEM1KZDYbSDd2KOVPnIKzJQ21y83kyQwa9JqN7E0qvyHJsIKjRukm56cQXdtUHDq2j9r7H+SKJpGA5XuN+kl0mzlTP69IW5xJ7NadnwTHqfN+Lz2sTlm9TqeBKwDg34BBBAAAAAAAAAAAdFpkLK7G7yj5fClTexSXQ8jJ1kdNtRyV6X68cheMHPEjt4jHoy/lKkOyUo/CfeHm4rI893jt4NlL+T5O9YkpLmpHlb8fdvAVMivtP9dZEnDV6wtONBQ/JS8+vZtCTdWARoX7NyxdCUItCAAAcKo4E5ABAJxqRno4Ix2ZJLevw/TO833xSNibwkFrwprILM8ipO+HLzIp4myq6/Ev8d7/vbJe78bbOE6NGc7f3femua68F4sHg/IHAPBzNLp3992LcHM4mPJUpEsGsTQtOtqrCntM0M2lJ/TLzjAQ/AEms6YMpqt7csUIzgm+GpKUf6qqpuQZslvEFwDQGWO3tylTvuDR5FnU1Z4GT0rWI1JLFsQ8W5WPxh2WC3O+rx+Pqh4yxZ3FRnR14f65g1Zt0e7GS3PpRK2hj9IHlUnuT4ea2S4vfzRnLKwZNu31I/bR4PYI3CEAAGcdLhAT+FP8I8vv0rtduLNx5WIUMrwwQrAhDg+Z25q78fra+v7kchzgqAeCAwAAAAAAAAAAAP57aLSySKYlNJZ78d76Xk8PbcC/VARKGfwFcpZ71otVAAA=",
+  "olean_digest": "53c69ad9e20592cf1403f44038962dfc6b24d9cdf2cb3eec5c1aa5d3b108a946",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

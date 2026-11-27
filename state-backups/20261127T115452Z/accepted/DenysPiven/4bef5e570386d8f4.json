@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/Users/Shared/riemann-at-home/lean",
+  "build_id": "4bef5e570386d8f4",
+  "machine": {
+    "os": "Darwin 27.2.0",
+    "arch": "arm64",
+    "cpu": "Apple M4 Pro",
+    "cores": 14
+  },
+  "started": "2026-11-27T11:05:49Z",
+  "recorded": "2026-11-27T11:46:21Z",
+  "busy_seconds": 2427,
+  "modules_compiled": 2941,
+  "bitmap_b64": "H4sIAAAAAAACE+2cXWhURxSAz9y93b3GZHcMS1xrYa+xYhDRfVEUwTvavLQUXF/7YtCHIEgNgvigMWMUf0qpefAhD/6k0FcfpJQWWshNW0SQQvqghQbNBgRBW3+IP4vZ3XHm/uzu3d3sJktCrTkfJJm5d+7MmZkzczLnHi4AUh9SSmoLWnE7MFW94WRM95q6Alw1FQfSnfYvLyBsK9DKa8tmK2xKgQhoZNenvYNUr1uv2w1HdgB9LpLoxeHUUcsQBEEQBEEQBEEQBEEQBEEQBEEQBHlf4GS2O/6rUbOYTVXcKcFKSVr9kreaDxuWCC94T8+EpGS6tnhDSVGbkPeId0mfCU4HgiAIgiAIgiBLAaNxkXpx7CaOIIIsMWygtDmvSTbawEvao6pHjwyy2DDH+HVrwMvtGw3YNe5m2oNPcsckrndK+cqcANg1i8Vk9M/o6srWw9SznIe0Lm2uhhj5b/n4AxwDBEEQBEEQBFkyRCAriiR5Rv6esZw7J2Cbf9z7Q+w7RgicHqTyjMlFEsC2hNghz43qqfZ5NEe2d3Z+Q7XIhQPh18KamcwXvKbbYCgnAryWPwOxJTYddl6InLi3RUw/Lj9295VmaVR88uz4c8+dZPeGneP9iBANI/XswupxNzUhLBhiDMKPKEuMQWtUPXuIdfjndRXkuAoyvSHg+eVgbRq7AWuOnyyvywy6szphannAb97h/d2/E6B9mKhu/BQFKDwMAWS3O7cKsifJKXHtpryUMuPMNGUhGg3UawQcGS1SzBaj6FkYqtXJkJ9IFYOgjOfTkAX7Z0jfPlzsXolxN9fRphT9QGYv6QL47fzl/hQFPjz+mZG+NNZzJAKR++jBgzJnEntQezx4vVcr0dRXo7bcPjKeLj8Vo5362aMv/4oB3xBa58xtToRAc1IMnLjWPvdzToYXNetJoHPwvKpyOqtC78LmCASi4DibW3heTlhNj81cYnBLq4jnQk20kQ1siM1H5xbUJl5lChaO/kVz/um+OnQ72bsfXXxBZzx9+nF6Ij95TAQNSazr1K+US+3RamisNujphRTXkPUm9FIhOxmHc8QZZtUZqXCU+f7TX0jh983GAwte/Xsy9E/66kNx/YeBrUdv+WN463T33RVfr3Tso2gw0TwfzKrl4U6zCX3B0O9nfnUmsKz1hBpyItUjnGSDxlMQKPPZMk8CrqlL/KJKf2doaS5XTgJ4W6VEKX9hqVFpjbfw4uIZIbtJSfFYre4wYLKZjVkl5/Aat92Db24XJq5M3knCK1GX2Pf9IPzuq+UoIrFv95jz+fAYX8v9wbJww0YQpAGDPaYBfxPSdfblermByV0+rV5/Ncdshi8zH3t/tTzTWq/ktvl/lJHv3pwGxr9kn58a0L4wOR0hCWdTt9W+zsXU6JsZucvHq09vNTZ90+0xUVaSm8GB4MV/iQqulKzcjAOkK6r+X8DhLfomXVGLVQAA",
+  "olean_digest": "eea100ebb5dabe4f871a055cb719b81100fa3b699a5b2363b0c49815a29ef961",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

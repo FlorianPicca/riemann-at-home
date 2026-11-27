@@ -1,0 +1,26 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/Users/Shared/riemann-at-home/grh",
+  "build_id": "994c7f28fea6cc5f",
+  "machine": {
+    "os": "Darwin 24.1.0",
+    "arch": "arm64",
+    "cpu": "Apple M4 Max",
+    "cores": 14
+  },
+  "started": "2026-11-27T09:53:09Z",
+  "recorded": "2026-11-27T12:47:16Z",
+  "busy_seconds": 10447,
+  "modules_compiled": 141,
+  "bitmap_b64": "H4sIAAAAAAAC/1NvsGUwaThwnvHADgYGgT972ZhYFBgYEhkZg5QEGBhy1v6L3rf3Z+JGBgZGBoaG5TwCGkxMDAwOHBxMTEABBhZGDgYQYAUywQwGJgcwBRQGM36CCBYAHFueZmUAAAA=",
+  "olean_digest": "c0648fd8c6a43b7b04ae277bfbefe89c4e1516b5b1d132ac4214284485740b07",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "kazwoot"
+}

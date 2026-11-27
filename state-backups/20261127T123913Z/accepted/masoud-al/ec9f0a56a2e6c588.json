@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "ec9f0a56a2e6c588",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 7900X3D 12-Core Processor",
+    "cores": 24
+  },
+  "started": "2026-11-27T11:21:58Z",
+  "recorded": "2026-11-27T11:42:29Z",
+  "busy_seconds": 1231,
+  "modules_compiled": 3282,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cXWhcRRSAz9xdd29isnspS1xTYSf1p0spdp/UKnanNfiH4C2+SF8aLBKEokEpPpQ00yJRREyKPgTRGtFX0eJDBVv2pvWhUKVRUMGK2YIQqNGmxJil29zxzv3fv+zmD6s538Myd+7cmXNm5szZOXd2AZClIUFSWdOKNwGT1av2BXXyZA5w2VQKSK/uZa8h7D7QqvPaGhWmlkAEFLL7if5jWnTJeh01bNkBoq1IEvW7M4qzDEEQBEEQBEEQBEEQBEEQBEEQBEGQ/wucNLrjvRql/mWu6k4AC5Ja7UveWrqbloituaavRSzJosr6daWGswlZFTfXaYSbaT4TnBwIgiAIgiAIgmwE1NXtHCn2IIJsMAzQtJVFTUqJJlHSPlk9RmSQ9YbZzq9XAR72b1qFX+NWhiJ/0lYBt13iVlmKeZM5DbCb1veYTPsusbm69Zjmlj6oZJVWHTHy73LXLdgHCIIgCIIgCLJhiENJ+GR40fos5+07N0Te2+59K/a/Sp7PvXP2GfY9Oyk+HClM5YW8zeVT3a23Rtt2Tj/09rPK/ouvxBZEvjy1aLpNd8KoKSpYkB9JQkOP+39/QpxdqroeUZV2+fF44wixEVKno0EkuXFAiIf20nQ8dBSQbqNZzg1H9yEx93t42z0bdEtBPDJ7+JqruNEfs7f340I0PalnmJsnndQla+hGGYPYFY2lJ6AjIZ89yLq8/bo85Hg7FPsPgLF4K+TvnTgJPYePVIxjqONnjrdtGbgqPqNB6FztUk7bJZ7bBdA9RqQaXyYAzOkIQGmnfcu0NMlcFmPDVlaOphilViEtUSGyWhHIaLfEbFf9yMJoPSUjXiLnH4JSr81BCYyvQL/wkq9ewKRz1dUpJ/qB4l6SBTj3xvuDOQ342OSTqv7uRN/LcYj/ihE8CAWT2G/1+4Mv9WolkXuzYIRM/KoobIkOH5r/KXlDbIvcrTrLTgQUOyVNIwYw4JiT6pqKK0FUGpLR4wxnzdG7mDSt8Ck4zlo7nhcsesunlTO4gRUVRWQFbZSSrS0zzTBFpo4rWDsG1y34F/WmQ699+eMdI39pZXc+nZoru34jRDJ79KzGP7+YuceaD9+c2gTsyhk/6rVruBv2ysSDA/F9j+nvnXn43HZ/Zcik4HVid7PqrNwac/82i50m5tc71Jk8/P3HkciMfmJafDo/dP+h83F3WH75+NGF42/dZvvHZgPNF6s8hOWEnWGmMFDpXGe96iiwUv5PLW0NpLQDHilVaU1CfgaYKwFXZBYfkelPVEXnluWkgXdWS5SzX1dYhmXprXak2rlvPONkDwkmHqunDgNmNbO9JOUc63HafeH6BfPSB1M/1I5O9WB9MQjCU1+ao4gnP3qaLueoL7+Tm3Yfza7ClhEE2Sgc66Mq/Ex6ssPzW60FrBe4Ll9/rYxGjq+4HH9/InzRsVTJB5b/Mwi+Z4cOjL/Injo6pOyjXBsnaXtRN+S6zsXlwvWytcqnah4kdRZ96mhMpJfktLIjuP+VyHSkZGE3DqBXVf2fgMM/AUBqUYtVAAA=",
+  "olean_digest": "9a920ff1e6433bbdd86fd04a93a2f0e4d79e5611d8be24423aea828987be8c80",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}
